@@ -7,4 +7,4 @@ My name is Frida, originally from a small town on the Swedish west coast but bee
 - 🌱 I’m currently learning PHP
 - 📫 You are more than welcome to connect with me on LinkedIn: https://www.linkedin.com/in/fridavbg/
 - 🏆 Also trying to get better at those crazy code challenges 🤯 https://leetcode.com/fridavbg/
-- ⚡ Fun fact: Hobby photographer who also loves yoga and metalmusic :metal:
+- ⚡ Fun fact: Hobby photographer who majority of the time has her head in a book. Also loves yoga and metalmusic :metal:
