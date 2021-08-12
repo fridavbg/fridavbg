@@ -10,4 +10,4 @@ Currently looking for remote opportunites.
 - 🏆 Also trying to get better at those crazy code challenges, when I have some extra time 🤯 https://leetcode.com/fridavbg/
 - ⚡ Fun fact: Hobby photographer who majority of the time has her head in a book. Also loves yoga and metalmusic :metal:
 
-[![Frida's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridavbg)](https://github.com/fridavbg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridavbg&layout=compact)](https://github.com/fridavbg/github-readme-stats)
