@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Frida, originally from a small town on the Swedish west coast but been living in Barcelona, Spain for twelve years.
-Currently looking for remote opportunites.
 
 - 🔭 I’m currently working on some freelance projects & doing a full-stack internship. 
 - 🌟 You can check out my portfolio here: https://fridapersson.netlify.app/
