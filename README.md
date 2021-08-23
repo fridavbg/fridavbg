@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Frida, originally from a small town on the Swedish west coast but been living in Barcelona, Spain for twelve years.
+My name is Frida, originally from the small town of Varberg on the Swedish west coast but been living in Barcelona, Spain for twelve years.
 
 - 🌱 I’m currently learning Python.
 - 📫 You are more than welcome to connect with me on LinkedIn: https://www.linkedin.com/in/fridavbg/
