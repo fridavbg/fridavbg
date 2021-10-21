@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridavbg&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/fridavbg/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/fridavbg/github-stats/blob/master/generated/languages.svg)
+
+Visualization by (https://github.com/anuraghazra/github-readme-stats)
