@@ -15,7 +15,7 @@ Feel free to contact me if you have a cool project in need of a junior developer
 * SQL procedures, triggers and functions
 * Object oriented Python
 * React Native
-* MVC - PHP
+* MVC - PHP / Symfony
 
 [![Frida's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridavbg)](https://github.com/fridavbg/github-readme-stats)
 
