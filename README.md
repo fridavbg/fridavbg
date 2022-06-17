@@ -7,13 +7,11 @@ Feel free to contact me if you have a cool project in need of a junior developer
 
 ## Im currently working on
 
-* A SQL database with procedures, triggers and user defined for a eshop.
-* A Python spellchecker with a trie data structure
+* A card game in PHP/Symfony
+* A warehouse app with React Native and Expo
 * My personal web portfolio in React
 
 ## Im currently learning
-* SQL procedures, triggers and functions
-* Object oriented Python
 * React Native
 * MVC - PHP / Symfony
 
