@@ -2,8 +2,6 @@
 (currently studying web development at a Swedish Univeristy, Blekinge Technical Institute.)
 
 My name is Frida and I'm orginally from Sweden, but have been living in Barcelona, Spain for the last 13 years. 
-I speak Swedish, English, Spanish and some German. 
-Feel free to contact me if you have a cool project in need of a junior developer, currently Im looking for something to spend my time on over the Summer (June - August 2022) 
 
 ## Im currently working on
 
