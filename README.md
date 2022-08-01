@@ -15,6 +15,8 @@ Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but
 * React Native
 * MVC - PHP / Symfony
 
+Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
+
 [![Frida's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridavbg)](https://github.com/fridavbg/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridavbg&layout=compact&langs_count=8)](https://github.com/fridavbg/github-readme-stats)
