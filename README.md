@@ -1,5 +1,5 @@
 # Major bookworm who is learning to code 
-(currently studying web development at a Swedish Univeristy, Blekinge Technical Institute.)
+(currently studying web development remotely at a Swedish Univeristy, Blekinge Institute of Technology.)
 
 My name is Frida and I'm orginally from Sweden, but have been living in Barcelona, Spain for the last 13 years. 
 
