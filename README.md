@@ -11,12 +11,8 @@ Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but
     * [Frontend](https://github.com/fridavbg/jsramverk-texteditor)
     * [Backend](https://github.com/fridavbg/jsramverk-texteditor-backend)
 * Getting better with Docker
-   * Setting up various containers one for a server, one for a client
-   * Regex, sed, grep, awk
-
-## Im currently learning
-* React - Nodejs
-* Linux, bash and Docker
+   * Setting up various containers one for a server, one for a client etc
+   * Regex, sed, grep, awk, bash
 
 Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
 
