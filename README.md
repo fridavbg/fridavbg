@@ -7,13 +7,16 @@ Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but
 
 ## Im currently working on
 
-* A card game in PHP/Symfony
-* A warehouse app with React Native and Expo
-* My personal web portfolio in React
+* A collaborative TextEditor
+    * [Frontend](https://github.com/fridavbg/jsramverk-texteditor)
+    * [Backend](https://github.com/fridavbg/jsramverk-texteditor-backend)
+* Getting better with Docker
+   * Setting up various containers one for a server, one for a client
+   * Regex, sed, grep, awk
 
 ## Im currently learning
-* React Native
-* MVC - PHP / Symfony
+* React - Nodejs
+* Linux, bash and Docker
 
 Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
 
