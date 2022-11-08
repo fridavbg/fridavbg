@@ -1,7 +1,7 @@
 # Major bookworm who is learning to code 
 (currently studying web development remotely at a Swedish Univeristy, Blekinge Institute of Technology.)
 
-My name is Frida and I'm orginally from Sweden, but have been living in Barcelona, Spain for the last 13 years. 
+My name is Frida and I'm orginally from Sweden, but have been living in Barcelona, Spain for the last 14 years. 
 
 Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but somehow I always end up coding in PHP :sweat_smile:
 
