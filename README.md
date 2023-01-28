@@ -7,12 +7,8 @@ Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but
 
 ## Im currently working on
 
-* A collaborative TextEditor
-    * [Frontend](https://github.com/fridavbg/jsramverk-texteditor)
-    * [Backend](https://github.com/fridavbg/jsramverk-texteditor-backend)
-* Getting better with Docker
-   * Setting up various containers one for a server, one for a client etc
-   * Regex, sed, grep, awk, bash
+* Writing my Thesis on Green Coding and how Green UX principles can help make a webpage more sustainable.
+* Doing a course on Data and Telecommuniction at Blekinge Institute of Technology.
 
 Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
 
