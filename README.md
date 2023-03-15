@@ -7,8 +7,7 @@ Mostly like coding in JavaScript and Python. I do try to stay away from PHP, but
 
 ## Im currently working on
 
-* Writing my Thesis on Green Coding and how Green UX principles can help make a webpage more sustainable.
-* Doing a course on Data and Telecommuniction at Blekinge Institute of Technology.
+* Writing my Thesis on Green Coding and how Green UX principles can help make a webpage more sustainable. (As you can see my green spots have been down in February as I have been busy researching ;))
 
 Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
 
