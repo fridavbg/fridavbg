@@ -1,13 +1,6 @@
-# Major bookworm who is learning to code 
-(currently studying web development remotely at a Swedish Univeristy, Blekinge Institute of Technology.)
+# Major bookworm who has learned to code 
 
-My name is Frida and I'm orginally from Sweden, but have been living in Barcelona, Spain for the last 14 years. 
-
-## Im currently working on
-
-* Writing my Thesis on Green Coding and how Green UX principles can help make a webpage more sustainable. (As you can see my green spots have been down in February as I have been busy researching  🤓📚)
-
-Also trying to get better at code challenges with Exercism: [Exercism profile](https://exercism.org/profiles/fridavbg)
+My name is Frida and I'm originally from Sweden, but have been living in Barcelona, Spain for the last 14 years. 
 
 [![Frida's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridavbg)](https://github.com/fridavbg/github-readme-stats)
 
