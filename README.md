@@ -7,13 +7,13 @@ My name is Frida and I'm originally from Sweden but have been living in Barcelon
 
 # I am currently working on
 
-### A photography portfolio [PicPeter](https://picpeter.com/).  
-### Helping out with building a webpage for a NGO [thePawportal](https://www.instagram.com/thepawportal/)
-  - Built with a CMS backend that allows the photographer to switch the photos on their own
-  - React interface
-### Building the API for [Petinder](https://www.linkedin.com/company/petinder-online/)
-  - Nodejs
-  - Express
-  - TypeScript
-  - PostgresSQL
-  - Swagger
+  ### A photography portfolio [PicPeter](https://picpeter.com/).  
+  ### Helping out with building a webpage for a NGO [thePawportal](https://www.instagram.com/thepawportal/)
+    - Built with a CMS backend that allows the photographer to switch the photos on their own
+    - React interface
+  ### Building the API for [Petinder](https://www.linkedin.com/company/petinder-online/)
+    - Nodejs
+    - Express
+    - TypeScript
+    - PostgresSQL
+    - Swagger
