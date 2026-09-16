@@ -26,4 +26,4 @@ Currently exploring **AI product engineering** — interested in thoughtful inte
 
 ---
 
-*Based in Spain. Working fully remote across Europe and beyond.*
+*From Sweden, but working fully remote across Europe and beyond.*
