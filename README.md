@@ -27,3 +27,5 @@ Currently exploring **AI product engineering** — interested in thoughtful inte
 ---
 
 *From Sweden, but working fully remote across Europe and beyond.*
+
+![Top Languages](https://ghstats.dev/api/langs?username=fridavbg&theme=nord&layout=grid)
