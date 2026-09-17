@@ -15,10 +15,6 @@ Currently exploring **AI product engineering** — interested in thoughtful inte
 **DevOps & Tools:** Docker, Bash, Git, CI/CD pipelines  
 **Interests:** Data-driven products, performance optimization, responsible AI
 
-## 🎯 Currently Building
-
-- **Data Insights Dashboard** — React + Node.js + Claude API
-
 ## 📚 Other Places
 
 - **[LinkedIn](https://www.linkedin.com/in/fridavbg/)** — Professional timeline
@@ -26,6 +22,6 @@ Currently exploring **AI product engineering** — interested in thoughtful inte
 
 ---
 
-*From Sweden, but working fully remote across Europe and beyond.*
+*From Sweden, but working fully remote across Europe.*
 
 ![Top Languages](https://ghstats.dev/api/langs?username=fridavbg&theme=nord&layout=grid)
