@@ -12,7 +12,7 @@
 
 Fullstack engineer, major bookworm, and hiking enthusiast. I work across JavaScript, PHP, and Python — building everything from React frontends to Node.js backends. I care about performance, accessibility, and code that's actually maintainable.
 
-🔭 &nbsp;I'm currently working on ****GoodNewsGenerator** — A React + Node.js app powered by Claude to curate positive news and counter doomscrolling. Because the internet needs more joy scrolling.**  
+🔭 &nbsp;I'm currently working on **Reelbox** — a web app that solves Instagram's API gap by letting you upload your saved posts and tag, filter, and find them—I'm architecting the full stack with passwordless auth and transaction-safe re-imports, shipping soon. **  
 🌱 &nbsp;I'm currently learning **Learning to build AI features that serve a purpose — not just because it's trendy, but because thoughtful AI will be essential infrastructure in the future.**  
 ⚡ &nbsp;Fun fact: **Former bartender. Made a lot of drinks, learned even more about people. Now I make software instead.**
 
